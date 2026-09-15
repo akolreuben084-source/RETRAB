@@ -1,2 +1,0 @@
-# RETRAB
-The learning journey 
